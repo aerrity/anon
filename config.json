@@ -1,0 +1,33 @@
+{
+  "nick": "IrishGovEdits",
+  "accounts": [
+    {
+      "consumer_key": "mH2pUWnUXARqaMUWk9Qdg2XCu",
+      "consumer_secret": "Os1RunDk6oB5YA1rUkgqVxAGiNBqbLkEnPAvpe6POtVxBiA5K4",
+      "access_token": "2636950596-PTG8dZWd1R6DsBmoxOTl0NP1FTafqXDNO1LW9eY",
+      "access_token_secret": "yR9Bv4HQF9CKZNcVgYS14OnoJ1rEWhSD28nLOYrKIeZUZ",
+      "template": "{{page}} Wikipedia article edited anonymously by {{name}} {{&url}}",
+      "ranges": {
+        "Irish Gov": [
+          "137.191.224.0/19",
+          "193.178.64.0/19",
+          "193.178.96.0/20",
+          "193.178.78.0/24",
+          "193.178.1.0/24",
+          "193.178.2.0/24",
+          "193.178.3.0/24",
+          "193.178.4.0/22",
+          "193.178.8.0/21",
+          "193.178.16.0/21",
+          "193.178.20.0/24",
+          "193.178.24.0/22",
+          "193.178.28.0/24",
+          "193.178.29.0/24",
+          "193.178.30.0/24"
+    	]
+      }
+    }
+  ]
+}
+
+
