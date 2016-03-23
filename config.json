@@ -8,8 +8,7 @@
       "access_token_secret": "yR9Bv4HQF9CKZNcVgYS14OnoJ1rEWhSD28nLOYrKIeZUZ",
       "template": "{{page}} Wikipedia article edited anonymously by {{name}} {{&url}}",
       "ranges": {
-        "Irish Gov": [
-          "137.191.224.0/19",
+        "Irish Gov": [ 
           "193.178.64.0/19",
           "193.178.96.0/20",
           "193.178.78.0/24",
